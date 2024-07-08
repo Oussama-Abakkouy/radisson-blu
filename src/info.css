@@ -1,0 +1,107 @@
+/* 
+
+.Informations {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+}
+
+.Informations-header {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.Informations-header h1 {
+    font-size: 2em;
+    color: #2c3e50;
+    margin-bottom: 10px;
+}
+
+.Informations-header h2 {
+    font-size: 1.5em;
+    color: #2980b9;
+    font-weight: 400;
+}
+
+
+.Informations-cards {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+
+.Informations-card {
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+    background-color: #b4b4b4;
+    border-radius: 10px;
+    box-shadow: 0 5px 10px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    text-align: center;
+    margin: 20px;
+}
+
+.Informations-card h3 {
+    font-size: 1.2em;
+    color: #2980b9;
+    font-weight: 600;
+    margin-bottom: 10px;
+}
+
+.Informations-card p {
+    font-size: 1em;
+    margin: 10px 0;
+}
+
+.Informations-card a {
+    color: #2980b9;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.Informations-card a:hover {
+    text-decoration: underline;
+}
+
+
+.Informations-direction {
+    width: 100%;
+    max-width: 800px;
+    margin-top: 40px;
+}
+
+.Informations-direction h2 {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.Informations-direction .Informations-card {
+    width: 100%;
+    margin: 0;
+}
+
+.Informations-direction .icon {
+    margin-right: 10px;
+}
+
+
+@media (max-width: 768px) {
+    .Informations-card {
+        width: 80%;
+        margin: 10px;
+    }
+    .Informations-direction {
+        width: 90%;
+    }
+}
+
+@media (max-width: 480px) {
+    .Informations-card {
+        width: 100%;
+        margin: 5px;
+    }
+} */
